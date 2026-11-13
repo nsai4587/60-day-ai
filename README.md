@@ -1,1 +1,1 @@
-# 60-day-ai
+# 60-days-ai
