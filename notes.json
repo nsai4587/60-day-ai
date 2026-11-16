@@ -1,0 +1,18 @@
+[
+  {
+    "day": 1,
+    "topic": "git"
+  },
+  {
+    "day": 2,
+    "topic": "lists and dictionaries"
+  },
+  {
+    "day": 3,
+    "topic": "functions"
+  },
+  {
+    "day": 4,
+    "topic": "files and json"
+  }
+]
